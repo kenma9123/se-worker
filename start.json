@@ -1,0 +1,8 @@
+{
+  "apps": [{
+    "name": "worker",
+    "script": "index.js",
+    "ignoreWatch": [],
+    "watch": "true"
+  }]
+}
